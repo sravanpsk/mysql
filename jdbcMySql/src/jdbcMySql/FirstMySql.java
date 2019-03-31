@@ -2,6 +2,10 @@ package jdbcMySql;
 
 import java.sql.*;
 
+/**
+author psk
+*/
+
 public class FirstMySql {
 
 	public static void main(String[] args) {
